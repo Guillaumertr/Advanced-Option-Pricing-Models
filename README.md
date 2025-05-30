@@ -81,6 +81,7 @@ To run the notebooks, you need:
 
 ```bash
 pip install numpy matplotlib scipy torch tqdm seaborn
+```
 
 ---
 
